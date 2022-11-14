@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Background
+  - Enemy
+  - Bronze Chest
+  - Bon Fire 1
+  - Bon Fire 2
+  - Heart 1
+  - Heart 2
+  - Sword
+  - Flying Enemy
+  - Heart 3
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Collidable Objects
+  - Background
+  - Background01
+  - CameraBounds
+  - Flying Enemy
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background01
+    uniqueID: 761023121
+    locked: 0
+  - name: Foreground
+    uniqueID: 353127691
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

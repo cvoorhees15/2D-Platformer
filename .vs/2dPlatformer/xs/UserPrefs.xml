@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{DB75B0E2-3657-F834-E4D1-B889C666A1B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="166" Column="5" />
+      <File FileName="Assets/Scripts/PlayerAttack.cs" Line="31" Column="15" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="45" Column="15" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="171" Column="34" />
+      <File FileName="Assets/Scripts/TriggerArea.cs" Line="22" Column="5" />
+      <File FileName="Assets/Scripts/HotZoneCheck.cs" Line="59" Column="5" />
+      <File FileName="Assets/Scripts/ChestBehavior.cs" Line="41" Column="5" />
+      <File FileName="Assets/Scripts/HealthBarBehavior.cs" Line="42" Column="104" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="44" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dea018ce-fcb9-4e3c-9028-aabfc14005be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
