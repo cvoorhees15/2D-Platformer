@@ -4,9 +4,7 @@ This is a Unity project created by Caleb Voorhees with the purpose of fulfilling
 
 # About
 
-This project was completed during junior year in the Spring 2022 semester. It required approximately 70 hours of work to complete. I worked alone on this project but pulled from many different online resources to help me complete it. This project produced 10 minutes of gameplay on average for each user that tested it through completion.
-
-Many of the files in this repository belong to different packages whether they are related Unity, C# or assets. 
+This project was completed during junior year in the Spring 2022 semester. It required approximately 70 hours of work to complete. I worked alone on this project but pulled from many different online resources to help me complete it. This project produced 10 minutes of gameplay on average for each user that tested it through completion. Many of the files in this repository belong to different packages whether they are related Unity, C# or assets. 
 
 To find my work navigate to:`2D-Platformer/Assets/Scripts` 
 
