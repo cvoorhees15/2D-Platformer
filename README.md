@@ -21,7 +21,7 @@ This game was created exclusively with free assets from the [Unity Asset Store](
  - [Platformer Set](https://assetstore.unity.com/packages/2d/environments/platformer-set-150023)
  - [Hero Knight - Pixel Art](https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188)
  - [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
-### Documentation & Tutorials
+### Tutorials
 Without the help of many online tutorials and resources this project would not have been completed. This is a list of creators with great tutorial content that I referenced throughout the development process.
 
 - [Brackeys](https://www.youtube.com/c/Brackeys)
@@ -29,4 +29,5 @@ Without the help of many online tutorials and resources this project would not h
 - [Sid Makes Games](https://www.youtube.com/c/SidMakesGames)
 - [Imphenzia](https://www.youtube.com/c/Imphenzia)
 
+### Documentation
 Unity Documentation can be found [here](https://docs.unity.com)
